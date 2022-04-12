@@ -1,0 +1,2 @@
+# Player-Party
+Player Party (PParty) is a computer-based software application that has gamers from any supported genre to host and find coordinated teams for a variety of gaming events. This application’s purpose is to allow gamers to find a good team with ease, leaving nothing to chance.  In turn, gamers will be able to find a communicative team to play their games with, instead of risking having to let the game automatically matchmake with silent or toxic players.
